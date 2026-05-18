@@ -12,12 +12,13 @@ The Data Science Lab at Politecnico di Milano advances Explainable AI and Data S
 - Data Science (methods, reproducibility, and applied tutorials)
 
 ## People
-- Prof. Marco Brambilla - Head
+- Marco Brambilla - Head, Full Professor
 - Matteo Bianchi - PhD Student
 - Riccardo Campi - PhD Student
 - Antonio De Santis - PhD Student
 - Davide Ettori - PhD Student
 - Mathyas Giudici - Postdoctoral Researcher
+- Francesco Pierri - Assistent Professor
 
 ## Contact
 - Data Science Lab, Politecnico di Milano
