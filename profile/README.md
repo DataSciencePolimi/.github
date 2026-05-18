@@ -5,7 +5,6 @@ Led by Prof. Marco Brambilla, the Data Science Lab at Politecnico di Milano adva
 Website: https://datascience.deib.polimi.it/
 
 ## Mission
-- Advance Explainable AI, Mechanistic Interpretability, and broader AI research; and promote reproducible, practical methods in Data Science.
 - Publish research code and datasets that accompany lab publications.
 - Provide teaching resources and hands-on tutorials for students and practitioners.
 
@@ -30,21 +29,6 @@ Website: https://datascience.deib.polimi.it/
 - `MDER-DR` — MDER-DR is a Multi-Hop Question-Answering Framework via Triple Placeholder Resolution with Entity-Centric Summaries. (Public, MIT)
 - `Visual-TCAV` — Official TensorFlow 2 implementation of Visual-TCAV for post-hoc explainability in image classification. (Public, MIT)
 - `Exploratory-Data-Analysis` — Compact tutorial on Exploratory Data Analysis (EDA): dataset inspection, univariate and multivariate exploration, handling outliers and missing values; includes Jupyter Notebooks. (Public, MIT)
-
-## How to Use
-- Browse each repository for a detailed README, usage examples, and requirements.
-- To run notebooks locally, create a Python environment and install required packages listed per repository.
-- When using code or datasets in publications, please cite the related paper or repository as indicated in each repo.
-
-## Contributing
-- Open issues for bugs or feature requests and submit pull requests for contributions.
-- Follow each repository's contributing guidelines and code of conduct if present.
-
-## Teaching & Publications
-- The lab maintains lecture notebooks, example datasets, and code used in courses and tutorials. Where applicable, repositories include links to associated publications.
-
-## Licensing
-- Most public repositories are released under the MIT License. Check each repository for the exact license.
 
 ## Contact
 - Data Science Lab, Politecnico di Milano
