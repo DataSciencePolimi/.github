@@ -2,8 +2,6 @@
 
 The Data Science Lab at Politecnico di Milano advances Explainable AI and Data Science. The lab maintains the official repositories for research code, datasets, publications, and teaching materials.
 
-Website: https://datascience.deib.polimi.it/
-
 ## Mission
 - Publish research code and datasets that accompany lab publications.
 - Provide teaching resources and hands-on tutorials for students and practitioners.
