@@ -11,10 +11,8 @@ The Data Science Lab at Politecnico di Milano advances Explainable AI and Data S
 - Artificial Intelligence (broader AI research)
 - Data Science (methods, reproducibility, and applied tutorials)
 
-## Lead
-- Prof. Marco Brambilla
-
-## Collaborators
+## People
+- Prof. Marco Brambilla - Head
 - Matteo Bianchi - PhD Student
 - Riccardo Campi - PhD Student
 - Antonio De Santis - PhD Student
@@ -24,4 +22,3 @@ The Data Science Lab at Politecnico di Milano advances Explainable AI and Data S
 ## Contact
 - Data Science Lab, Politecnico di Milano
 - Website: https://datascience.deib.polimi.it/
-
