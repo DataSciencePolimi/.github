@@ -1,6 +1,7 @@
 # Data Science Lab — Politecnico di Milano
 
-The Data Science Lab at Politecnico di Milano advances Explainable AI and Data Science. The lab maintains the official repositories for research code, datasets, publications, and teaching materials.
+The Data Science Lab at Politecnico di Milano advances Explainable AI and Data Science.
+<br>The lab maintains the official repositories for research code, datasets, publications, and teaching materials.
 
 ## Mission
 - Publish research code and datasets that accompany lab publications.
